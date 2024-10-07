@@ -1,0 +1,18 @@
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_Buisness\bin\Debug\LibrarySystem_Buisness.dll
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_Buisness\bin\Debug\LibrarySystem_Buisness.pdb
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_Buisness\bin\Debug\LibrarySystem_DataAccess.dll
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_Buisness\bin\Debug\LibrarySystem_DataAccess.pdb
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_Buisness\obj\Debug\LibrarySystem_Business.csproj.AssemblyReference.cache
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_Buisness\obj\Debug\LibrarySystem_Business.csproj.CoreCompileInputs.cache
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_Buisness\obj\Debug\LibraryS.3B0DC5FB.Up2Date
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_Buisness\obj\Debug\LibrarySystem_Buisness.dll
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_Buisness\obj\Debug\LibrarySystem_Buisness.pdb
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_Buisness\bin\Debug\LibrarySystem_Buisness.dll
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_Buisness\bin\Debug\LibrarySystem_Buisness.pdb
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_Buisness\bin\Debug\LibrarySystem_DataAccess.dll
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_Buisness\bin\Debug\LibrarySystem_DataAccess.pdb
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_Buisness\obj\Debug\LibrarySystem_Business.csproj.AssemblyReference.cache
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_Buisness\obj\Debug\LibrarySystem_Business.csproj.CoreCompileInputs.cache
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_Buisness\obj\Debug\LibraryS.3B0DC5FB.Up2Date
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_Buisness\obj\Debug\LibrarySystem_Buisness.dll
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_Buisness\obj\Debug\LibrarySystem_Buisness.pdb

@@ -1,0 +1,68 @@
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.BookCopy.frmAddCopy.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.Books.frmAddEditBook.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.Books.frmManageBooks.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.Borrowing_And_Return_Book.frmManageBorrowingAndReturn.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.frmLoginScreen.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.People.frmAddEditPerson.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.People.frmManagePeople.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.People.frmShowNationalCardImage.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.People.frmShowPersonDetails.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.User.frmAddEditUser.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.User.frmChangePassword.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.User.frmManageUsers.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\bin\Debug\LibrarySystem_Buisness.dll
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\bin\Debug\LibrarySystem_DataAccess.dll
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\bin\Debug\LibrarySystem_Buisness.pdb
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\bin\Debug\LibrarySystem_DataAccess.pdb
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibraryS.702885DD.Up2Date
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.Borrowing_And_Return_Book.Borrowing_Book.frmBorrowingBook.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.Borrowing_And_Return_Book.Borrowing_Book.frmListAvailableBook.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.Books.frmShowBookDetails.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.Borrowing_And_Return_Book.Borrowing_Book.frmBorrowingDetails.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.Borrowing_And_Return_Book.Return_Book.frmReturnBook.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.Fines.frmFineDetails.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.frmMainScreen.resources
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem\obj\Debug\LibrarySystem.System_Setting.frmSystemSetting.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\bin\Debug\LibrarySystem_Buisness.dll
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\bin\Debug\LibrarySystem_DataAccess.dll
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\bin\Debug\LibrarySystem_Buisness.pdb
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\bin\Debug\LibrarySystem_DataAccess.pdb
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.BookCopy.frmAddCopy.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.Books.frmAddEditBook.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.Books.frmManageBooks.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.Books.frmShowBookDetails.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.Borrowing_And_Return_Book.Borrowing_Book.frmBorrowingBook.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.Borrowing_And_Return_Book.Borrowing_Book.frmBorrowingDetails.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.Borrowing_And_Return_Book.Borrowing_Book.frmListAvailableBook.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.Borrowing_And_Return_Book.frmManageBorrowingAndReturn.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.Borrowing_And_Return_Book.Return_Book.frmReturnBook.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.Fines.frmFineDetails.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.frmLoginScreen.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.frmMainScreen.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.People.frmAddEditPerson.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.People.frmManagePeople.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.People.frmShowNationalCardImage.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.People.frmShowPersonDetails.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.System_Setting.frmSystemSetting.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.User.frmAddEditUser.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.User.frmChangePassword.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.User.frmManageUsers.resources
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibraryS.702885DD.Up2Date
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem\obj\Debug\LibrarySystem.pdb

@@ -1,0 +1,12 @@
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_DataAccess\bin\Debug\LibrarySystem_DataAccess.dll
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_DataAccess\bin\Debug\LibrarySystem_DataAccess.pdb
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_DataAccess\obj\Debug\LibrarySystem_DataAccess.csproj.AssemblyReference.cache
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_DataAccess\obj\Debug\LibrarySystem_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_DataAccess\obj\Debug\LibrarySystem_DataAccess.dll
+C:\Users\wadea\OneDrive\Desktop\Library Project\LibrarySystem_DataAccess\obj\Debug\LibrarySystem_DataAccess.pdb
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_DataAccess\bin\Debug\LibrarySystem_DataAccess.dll
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_DataAccess\bin\Debug\LibrarySystem_DataAccess.pdb
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_DataAccess\obj\Debug\LibrarySystem_DataAccess.csproj.AssemblyReference.cache
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_DataAccess\obj\Debug\LibrarySystem_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_DataAccess\obj\Debug\LibrarySystem_DataAccess.dll
+C:\Users\wadea\OneDrive\Desktop\Library System (Copy)\LibrarySystem_DataAccess\obj\Debug\LibrarySystem_DataAccess.pdb
